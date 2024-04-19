@@ -62,3 +62,5 @@ OPENAI_API_KEY =
 FIREBASE_API_KEY = 
 
 Install Next.js :: npm install next@latest react@latest react-dom@latest
+or 
+npm install next
